@@ -5,5 +5,6 @@ public class Test1 {
 	public void name() {
 		System.out.println("하이");
 		System.out.println("하이2");
+		System.out.println("하이하이하이하이하이");
 	}
 }
